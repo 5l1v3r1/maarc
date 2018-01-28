@@ -4,7 +4,7 @@ Maarc is for education/research purposes only. The author takes NO responsibilit
 <h1> About Maarc </h1>
 A Cross Platform Python Remote Administration Tool:
 
-This is a cross platform python framework which allows you to build custom payloads for Windows, Mac OSX and Linux as well. You are able to select whether the payload binds to a specific IP and port, listens for a connection on a port, option to send an email of system info when the system boots, and option to start keylogger on boot. Payloads created can only run on the OS that they were created on.
+This is a cross platform python framework which allows you to build custom payloads for Windows, and Linux as well. You are able to select whether the payload binds to a specific IP and port, listens for a connection on a port, option to send an email of system info when the system boots, and option to start keylogger on boot. Payloads created can only run on the OS that they were created on.
 
  <h1> Features </h1>
 Cross Platform Support
@@ -37,7 +37,7 @@ View summary of registry values such as DEP
 Display a user/password dialog box to obtain user password
 Change the login text at the user's login screen
 Webcam snapshots
-# Mac OSX/Linux Specific
+# Linux Specific
 SSH from the target machine into another host
 Run sudo commands
 Attempt to bruteforce the user's password using the passwords list found in Tools/
